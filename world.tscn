@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bnc4xfv4q0pvu"]
+
+[node name="World" type="Node2D"]
+
+[node name="Farmland" type="TileMap" parent="."]
+format = 2
+
+[node name="Features" type="TileMap" parent="."]
+format = 2
