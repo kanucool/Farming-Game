@@ -12,7 +12,7 @@ func _ready():
 
 func _on_Area2D_input_event(viewport, event, shape_idx):
 	if Input.is_action_just_pressed("click"):
-		Global.plantselected = seed_type
+		Global.plant_selected = seed_type
 		selected = true
 		
 func _physics_process(delta):
