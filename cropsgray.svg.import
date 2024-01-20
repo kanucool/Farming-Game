@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grid.svg-e4c3db65d931043d78eec95dbd9ac167.stex"
+path="res://.import/cropsgray.svg-4bbd51dfb969d590c082c913915871ee.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://grid.svg"
-dest_files=[ "res://.import/grid.svg-e4c3db65d931043d78eec95dbd9ac167.stex" ]
+source_file="res://cropsgray.svg"
+dest_files=[ "res://.import/cropsgray.svg-4bbd51dfb969d590c082c913915871ee.stex" ]
 
 [params]
 
